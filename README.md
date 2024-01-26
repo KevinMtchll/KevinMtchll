@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a computer science student at UMD.
+I'm an undergraduate computer science student at UMD.
 <!--
 **KevinMtchll/KevinMtchll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
