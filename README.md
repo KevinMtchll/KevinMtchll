@@ -1,7 +1,7 @@
 ### Hi there 👋
 If you are an employer looking to view code on my resume:  
 
-Please email me at kmitch04@umd.edu. Due my university's academic policy I cannot make my school projects public.  
+Please email me at kmitch04@umd.edu. Due my university's academic policy, I cannot any school project on my resume public.  
 
 Best, Kevin Mitchell
 <!--
