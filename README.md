@@ -1,5 +1,5 @@
 ### Hi there 👋
-If you are an employer looking to view code on my resume:  
+If you are an employer looking to view code on my resume (and you don't see it):  
 
 Please email me at kmitch04@umd.edu. Due my university's academic policy, I cannot publicly display any university related repositories.  
 
