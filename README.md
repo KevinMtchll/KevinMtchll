@@ -1,5 +1,4 @@
 ### Hi there 👋
-If you are an employer looking to view code on my resume (and you don't see it), then please email me at kmitch04@umd.edu.
 
 <!--
 **KevinMtchll/KevinMtchll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
